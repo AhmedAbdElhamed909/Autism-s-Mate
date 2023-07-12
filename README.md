@@ -1,4 +1,4 @@
-# GraduationProject
+# Autism's Mate
 it is mobile app using flutter and dart and firebase This major objective is to create a cost-effective system that includes automatic and analytic tools for children's autism diagnosis by building a user-friendly application for parents to help in the diagnosis steps and reduce costs. 
 
 Detection using Image/s of the child
