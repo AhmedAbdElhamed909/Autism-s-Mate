@@ -1,13 +1,26 @@
 # Autism's Mate
-it is mobile app using flutter and dart and firebase This major objective is to create a cost-effective system that includes automatic and analytic tools for children's autism diagnosis by building a user-friendly application for parents to help in the diagnosis steps and reduce costs. 
 
-Detection using Image/s of the child
-This is the main functionality as it helps the parents or caregivers in early diagnosis 
-Questionnaire test for parents or caregivers that focuses on a child's developmental history but this isn't considered a diagnostic test
-Consists of 27 questions which determine if the child is experiencing symptoms of autism spectrum disorder 
-Questionnaire test for adults 
-Consists of 14 questions which determine if the adult is experiencing symptoms of autism spectrum disorder
-Providing a list of centers
-This will help the user/parents locate/call the nearest psychiatrists and organizations 
-Interactive games for the child 
-aid autistic children's education and mental development through games that can teach autistic children how to potentially express their emotions
+**Autism's Mate** is a mobile application designed to help parents, caregivers, and adults in the early detection and analysis of Autism Spectrum Disorder (ASD). The app uses a combination of tools such as image analysis, questionnaires, and educational games to support ASD diagnosis and promote mental development. Built using **Flutter**, **Dart**, and **Firebase**, the app offers a cost-effective, user-friendly solution for both parents and healthcare professionals.
+
+## Key Features
+
+### 1. **Autism Detection through Images**
+   - The app allows parents or caregivers to upload images of the child to help in the early detection of Autism Spectrum Disorder.
+   - This image-based analysis helps to identify early signs of autism and guides parents through the diagnostic process.
+
+### 2. **Questionnaire for Parents and Caregivers**
+   - **27 Questions** focused on the child's developmental history.
+   - This questionnaire helps identify signs and symptoms of autism but is **not** a definitive diagnostic tool.
+   - It provides valuable insights into a child’s behaviour, which can be used to discuss further evaluation with a healthcare professional.
+
+### 3. **Questionnaire for Adults**
+   - **14 Questions** designed to help adults assess whether they may be experiencing symptoms of autism.
+   - This questionnaire assists adults in identifying signs of autism and helps in seeking further evaluation or support.
+
+### 4. **Directory of Centers**
+   - The app provides a comprehensive list of nearby centres, psychiatrists, and autism-related organizations.
+   - Parents can easily locate and contact the nearest specialists to help with diagnosis or therapy.
+
+### 5. **Interactive Educational Games**
+   - Designed for children with autism, these games promote education and mental development.
+   - Games are specifically created to help children improve emotional expression and social interactions, enhancing their overall well-being.
